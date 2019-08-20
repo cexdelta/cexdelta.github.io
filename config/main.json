@@ -31,10 +31,10 @@
     { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "decimals": 18 }
   ],
   "tokens": [
+    { "addr": "0x61e24dd8d1f04a020f1160181a1bc7a5e07f417f", "name": "BWC", "decimals": 18 },
     { "addr": "0xca008ac4a97907e949ba21fe14ceec1af7c3932a", "name": "DEX", "decimals": 8 },
     { "addr": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45", "name": "STX", "decimals": 18 },
     { "addr": "0x009e864923b49263c7f10d19b7f8ab7a9a5aad33", "name": "FKX", "decimals": 18 },
-    { "addr": "0x61e24dd8d1f04a020f1160181a1bc7a5e07f417f", "name": "BWC", "decimals": 18 },
     { "addr": "0x00a0cbe98e4d110b0fa82646152d77babf2951d0", "name": "EETHER", "decimals": 18 },
     { "addr": "0x013a06558f07d9e6f9a00c95a33f3a0e0255176b", "name": "BALI", "decimals": 18 },
     { "addr": "0x014b50466590340d41307cc54dcee990c8d58aa8", "name": "ICOS", "decimals": 6 },
