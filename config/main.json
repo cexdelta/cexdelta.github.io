@@ -31,6 +31,7 @@
     { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "decimals": 18 }
   ],
   "tokens": [
+    { "addr": "0x61e24dd8d1f04a020f1160181a1bc7a5e07f417f", "name": "STRATUM", "decimals": 18 },
     { "addr": "0xca008ac4a97907e949ba21fe14ceec1af7c3932a", "name": "DEX", "decimals": 8 },
     { "addr": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45", "name": "STX", "decimals": 18 },
     { "addr": "0x009e864923b49263c7f10d19b7f8ab7a9a5aad33", "name": "FKX", "decimals": 18 },
@@ -1030,5 +1031,5 @@
     { "addr": "0x515bA0a2E286AF10115284F151cF398688A69170", "name": "TenX", "decimals": 18 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 }
   ],
-  "defaultPair": { "token": "BWC", "base": "ETH" }
+  "defaultPair": { "token": "STRATUM", "base": "ETH" }
 }
