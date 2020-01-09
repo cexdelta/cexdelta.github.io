@@ -198,6 +198,7 @@
     { "addr": "0x26607f9bf9d62a37b0c78e1d3719fcd1fa32bef9", "name": "GFL", "decimals": 18 },
     { "addr": "0x268b7976e94e84a48bf8b2b57ba34b59ed836a74", "name": "XAI", "decimals": 8 },
     { "addr": "0x26d5bd2dfeda983ecd6c39899e69dae6431dffbb", "name": "ERC20", "decimals": 18 },
+    { "addr": "0x04c7cd246330288a84d2788e8a323cc41206c2eb", "name": "ERC20", "decimals": 18 },
     { "addr": "0x26e75307fc0c021472feb8f727839531f112f317", "name": "C20", "decimals": 18 },
     { "addr": "0x27054b13b1b798b345b591a4d22e6562d47ea75a", "name": "AST", "decimals": 4 },
     { "addr": "0x27537ff4df3081cef9bee9b29cac764067b42611", "name": "SLIP", "decimals": 0 },
