@@ -1034,5 +1034,5 @@
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 },
     { "addr": "0x61e24dD8d1F04A020F1160181a1bC7a5E07F417f", "name": "STRATUM", "decimals": 18 }
   ],
-  "defaultPair": { "token": "STRATUM", "base": "ETH" }
+  "defaultPair": { "token": "HDG", "base": "ETH" }
 }
