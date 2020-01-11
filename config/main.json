@@ -430,7 +430,7 @@
     { "addr": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53", "name": "TIME", "decimals": 8 },
     { "addr": "0x6576963107077cce5ec879978c03ec6bb300cc89", "name": "CSN", "decimals": 8 },
     { "addr": "0x039B5649A59967e3e936D7471f9c3700100Ee1ab", "name": "KCS", "decimals": 6 },
-    { "addr": "0x660b612ec57754d949ac1a09d0c2937a010dee05", "name": "BCD", "decimals": 6 },
+    //{ "addr": "0x660b612ec57754d949ac1a09d0c2937a010dee05", "name": "BCD", "decimals": 6 },
     { "addr": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66", "name": "CTX", "decimals": 18 },
     { "addr": "0x667088b212ce3d06a1b553a7221e1fd19000d9af", "name": "WINGS", "decimals": 18 },
     { "addr": "0x6678e467fa5ccfbdc264d12f4b8b28fe4661606b", "name": "DCNT", "decimals": 1 },
