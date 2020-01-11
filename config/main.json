@@ -1032,7 +1032,8 @@
     { "addr": "0xc36e2C02e64585c15794B8e25E826d50b15fd878", "name": "ANIME", "decimals": 8 },
     { "addr": "0x225927F8fa71d16EE07968B8746364D1d9F839bD", "name": "BTCF", "decimals": 8 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 },
-    { "addr": "0x61e24dD8d1F04A020F1160181a1bC7a5E07F417f", "name": "STRATUM", "decimals": 18 }
+    { "addr": "0x61e24dD8d1F04A020F1160181a1bC7a5E07F417f", "name": "STRATUM", "decimals": 18 },
+    { "addr": "0x61e24dD8d1F04A020F1160181a1bC7a5E07F417f", "name": "BCD", "decimals": 18 }
   ],
   "defaultPair": { "token": "STRATUM", "base": "ETH" }
 }
